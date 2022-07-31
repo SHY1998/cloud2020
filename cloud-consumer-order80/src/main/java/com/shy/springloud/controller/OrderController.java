@@ -1,7 +1,7 @@
 package com.shy.springloud.controller;
 
-import com.shy.springloud.entites.CommonResult;
-import com.shy.springloud.entites.Payment;
+import com.shy.springcloud.entites.CommonResult;
+import com.shy.springcloud.entites.Payment;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
